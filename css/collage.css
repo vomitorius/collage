@@ -1,0 +1,15 @@
+body {
+  padding-top: 5rem;
+  background-color: #464a4c;
+}
+.collage-template {
+/*   padding: 3rem 1.5rem; */
+  text-align: center;
+}
+
+canvas {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000;
+    margin: 5px;
+}
