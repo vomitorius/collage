@@ -1,0 +1,6 @@
+{
+  "name": "vitejs-vite-fihjnd",
+  "dependencies": {
+    "vite": "^2.9.12"
+  }
+}
